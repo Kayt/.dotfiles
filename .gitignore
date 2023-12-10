@@ -1,0 +1,3 @@
+*.Identifier
+*.json
+tmux/plugins/*
